@@ -1,4 +1,12 @@
+body {
+  margin: 0px;
+  //background-color: black;
+}
+
 @tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -25,3 +33,6 @@ body {
     text-wrap: balance;
   }
 }
+ */
+
+
