@@ -1,7 +1,6 @@
 "use client";
 // components/ContactSection.js
 import React from "react";
-import styles from "../styles/Home.module.css";
 
 const ContactSection = () => {
   return (

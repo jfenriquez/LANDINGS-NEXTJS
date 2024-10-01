@@ -1,5 +1,5 @@
 "use client";
-import styled from "styled-components";
+
 import Typewriter from "typewriter-effect";
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
       >
         <div className="mockup-code max-w-lg mx-auto">
           <pre data-prefix=">" className="text-warning p-4">
-            <code style={{ whiteSpace: "pre-wrap"  }}>
+            <code style={{ whiteSpace: "pre-wrap" }}>
               <Typewriter
                 options={{
                   delay: 50,

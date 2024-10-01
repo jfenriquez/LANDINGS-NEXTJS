@@ -2,7 +2,7 @@
 // components/HeroSection.js
 import React, { useEffect, useRef } from "react";
 import { gsap } from "gsap";
-import styles from "../styles/Home.module.css";
+//import styles from "../styles/Home.module.css";
 
 const HeroSection = () => {
   const titleRef = useRef(null);

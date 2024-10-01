@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import { useTransform, motion, useScroll, MotionValue } from "framer-motion";
 import styles from "./Card.module.scss";
 import Image from "next/image";
-import styled from "styled-components";
+
 interface CardProps {
   i: number;
   title: string;
