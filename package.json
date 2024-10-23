@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-spring/parallax": "^9.7.5",
+    "@splinetool/react-spline": "^4.0.0",
+    "@splinetool/runtime": "^1.9.31",
     "@studio-freight/lenis": "^1.0.42",
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",

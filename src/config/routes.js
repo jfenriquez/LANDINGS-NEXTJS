@@ -14,4 +14,10 @@ export const rutas = [
     title: "PAGE 3",
     src: "/SmoothScroll",
   },
+
+  {
+    id: 4,
+    title: "PAGE 4",
+    src: "/VerticalParallax",
+  },
 ];
