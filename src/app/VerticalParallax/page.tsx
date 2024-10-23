@@ -3,7 +3,6 @@ import React, { useRef } from "react";
 import { Parallax, ParallaxLayer, IParallax } from "@react-spring/parallax";
 //import TorusMotion3D from "@/components/IMG_3D/TorusMotion3D";
 import Image from "next/image";
-import { url } from "inspector";
 
 const VerticalParallax = () => {
   const parallax = useRef<IParallax>(null!);
