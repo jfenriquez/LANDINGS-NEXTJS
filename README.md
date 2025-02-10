@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+[https://landings-nextjs.vercel.app/](https://landings-nextjs.vercel.app/)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
